@@ -1,0 +1,6 @@
+c:\users\hinsiu\documents\visual studio 2015\Projects\Projekt\Projekt\bin\Debug\Projekt.exe.config
+c:\users\hinsiu\documents\visual studio 2015\Projects\Projekt\Projekt\bin\Debug\Projekt.exe
+c:\users\hinsiu\documents\visual studio 2015\Projects\Projekt\Projekt\bin\Debug\Projekt.pdb
+c:\users\hinsiu\documents\visual studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+c:\users\hinsiu\documents\visual studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.exe
+c:\users\hinsiu\documents\visual studio 2015\Projects\Projekt\Projekt\obj\Debug\Projekt.pdb
